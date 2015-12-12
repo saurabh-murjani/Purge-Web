@@ -1,0 +1,115 @@
+body{
+	background-image: url(me7.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+::selection{background:white;}
+#side-pane{
+	position:fixed;
+	width:20%;
+	height:100%;
+	background:rgba(0,0,0,0.5);
+	float:left;
+}
+#golo{
+	position: relative;
+	float:left;
+		padding: 5%;
+
+}
+#karao{
+	color: white;
+	font-family: lato;
+	float: left;
+	margin-left: 3%;
+	}
+
+.main1 {
+    border-bottom: 1px solid #555;
+    width:100%;
+    text-align: center;
+    padding-top: 1px;
+
+}
+.main1 a{
+	display: block;
+	text-decoration: none;
+	color: white;
+}
+.main1:hover:not(.active){
+    background-color:black;
+    color: white;
+    width:100%;
+    box-shadow:0 0 8px white; 
+    border-radius:0 0 0 100px;
+}
+.nav{
+	clear:left;
+	margin:4% 0 4% 4%;
+	list-style-type: none;
+	color: white;
+	font-family: lato;
+	font-size: 12px;
+}
+.active {
+	background-color: #8CC63C;
+	color: white;
+	width:100%;
+	box-shadow: 0 0 10px white;
+	border-radius:0 0 0 100px;
+}
+
+div a img:hover{
+	box-shadow:0 0 8px white;
+	border-radius:3px;
+}
+div a img:active{
+	box-shadow:0 0 15px #ff6600;
+	border-radius:5px;
+}
+.looter{
+	clear: right;
+	margin-left:21%;
+	background-color: #333;
+	height: 230px;
+	box-shadow:0 0 10px black;
+}
+#kaise{
+	font-family: arial;
+	color: white;
+	font-weight: bold;
+	padding-top: 40px;
+}
+#aise{
+	font-family: arial;
+	color: white;
+	padding-top: 5px;
+}
+.aao{
+	padding-right: 50px;
+	text-align: right;
+	float: right;
+	color: white;
+	font-family: arial;	
+	padding-top: 40px;
+	
+}
+.kar{
+	padding-top: 40px;
+	text-align: left;
+	float: left;
+	padding-left: 50px;
+	text-shadow:0 0 15px black;
+}
+.quotes{
+	width:79%;
+	float: left;
+	margin-left:21%;
+	margin-top: 250px;
+	font-family: sans-serif;
+	color:#e6e6e6;
+	text-shadow:0 0 15px black;
+	font-style: italic;
+}
+

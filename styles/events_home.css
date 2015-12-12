@@ -1,0 +1,84 @@
+.remains{
+	min-height: 600px;
+	margin-top:100px;
+	float:right;
+	width:79%;
+	margin-left: 20%;
+	height:auto;
+	box-shadow:0 0 10px black;
+	background-color: rgba(142,198,65,0.6);
+	text-align:center;
+}
+#yo{
+	font-size: 28px;
+	padding-top: 30px;
+	font-family: arial;
+	color: black;
+	text-shadow:1px 1px 1px black;
+	background:transparent;
+}
+#tile{
+	margin-top: -60px;
+	font-size: 28px;
+	color:white;
+	text-align: right;
+	text-shadow:1px 1px 1px black;
+	background:transparent;
+	padding-left: 20px;
+}
+.event_class{
+	position:relative;
+	margin-left:3%;
+	border:1px solid black;
+	box-shadow: 0 0 10px black;
+	border-radius: 3px;
+}
+.descript{
+	margin-top: 400px;
+	float: right;
+	width: 79%;
+	min-height: 500px;
+}
+.desc{
+	background-color: rgba(142,198,65,0.6);
+	box-shadow: 0 0 8px black;
+	width: 100%;
+}
+.imgdes{
+	float:left;
+	margin-top:3%;
+	margin-left:10%;
+	margin-bottom: 4%;
+}
+
+.imgdes1{
+	float:right;
+	margin-top:3%;
+	margin-right:10%;
+	margin-bottom: 4%;
+}
+.trans{
+	background:transparent;
+	color:transparent;
+}
+.trans:hover{
+	background:rgba(0,0,0,0.5);
+	color:white;
+	width:250px;
+	height:180px;
+}
+.content{
+	font-size: 18px;
+	padding: 20px;
+	font-family: arial;
+	text-align: left;
+}
+.img{
+	background-image: url(me5.jpg);
+	width:250px;
+	height:180px;
+}
+.image_link{
+	text-decoration: none;
+	color: black;
+}

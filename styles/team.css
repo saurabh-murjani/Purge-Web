@@ -1,0 +1,46 @@
+.remains{
+	margin-top:100px;
+	float:right;
+	width:79%;
+	margin-left: 20%;
+	height:auto;
+	background:rgba(142,198,65,0.6);
+}
+#ya{
+	margin-top: -45px;
+	font-size:28px; 
+	 font-weight:bold;
+	 text-align: right;
+	color:white;
+	font-family: sans-serif;
+	text-shadow:1px 1px 3px black;
+}
+.team_sections1{
+	border-top: 1px solid black;
+	text-align: center;
+	height:auto;
+	background-color: white;
+}
+.team_sections2{
+	border-top: 1px solid black;
+	text-align: center;
+	height:auto;
+	background-color: #FF6666;
+}
+ .image{
+	border-radius:100px;
+	border:4px solid #ff6666;
+	box-shadow: 0 0 10px black;
+}
+
+
+#font_type{
+	font-family:sans-serif;
+	font-size:16px;
+}
+
+.posit{
+	float:left;
+	display:inline;
+	margin-left:13%;
+}

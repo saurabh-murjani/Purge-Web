@@ -1,0 +1,29 @@
+.descript{
+	margin-top: 100px;
+	float: right;
+	max-width: 79%;
+	height:538px;
+}
+.desc{
+	background-color: rgba(142,198,65,0.6);
+	box-shadow: 0 0 8px black;
+	height: auto;
+	}
+#tile{
+	color:white;
+	text-align: right;
+	text-shadow:1px 1px 1px black;
+	background:transparent;
+	padding-left: 20px;
+}
+#pile{
+	padding-left: 40px;
+	font-family: arial;
+	padding-top: 100px;
+}
+#mile{
+	padding-left: 40px;
+	font-family: arial;
+	padding-top: 50px;
+	padding-bottom: 25px;
+}
